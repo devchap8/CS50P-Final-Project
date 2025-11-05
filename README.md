@@ -1,5 +1,4 @@
 # Starter Project Collection
-#### Video Demo: https://www.youtube.com/watch?v=YDNQDRlKJCo
 #### Description: A collection of three common starter projects I made from scratch
 ## Projects:
 ### TicTacToe:
